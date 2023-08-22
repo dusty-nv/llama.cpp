@@ -52,6 +52,7 @@ models-mnt
 /gguf-llama-simple
 /libllama.so
 /llama-bench
+/llama2-chat
 build-info.h
 arm_neon.h
 compile_commands.json
